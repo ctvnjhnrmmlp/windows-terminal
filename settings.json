@@ -263,7 +263,7 @@
                 "background": "#09090B",
                 "iconStyle": "default",
                 "showCloseButton": "always",
-                "unfocusedBackground": "#111111FF"
+                "unfocusedBackground": "#202020"
             },
             "window":
             {
